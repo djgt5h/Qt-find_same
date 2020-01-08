@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rec/back1.jpg</file>
+        <file>rec/back1.png</file>
+        <file>rec/back2.jpg</file>
+        <file>rec/back2.png</file>
+        <file>rec/levelIcon.jpg</file>
+        <file>rec/levelIcon.png</file>
+        <file>rec/mainbackground.jpg</file>
+        <file>rec/playBackground.jpg</file>
+        <file>rec/start1.jpg</file>
+        <file>rec/start1.png</file>
+        <file>rec/start2.jpg</file>
+        <file>rec/windowIcon.png</file>
+        <file>rec/findsame.png</file>
+        <file>rec/findsame_1.png</file>
+        <file>rec/BorderNode.png</file>
+        <file>rec/1.png</file>
+        <file>rec/2.png</file>
+        <file>rec/succeed.png</file>
+        <file>rec/4.png</file>
+        <file>rec/3.png</file>
+        <file>rec/5.png</file>
+        <file>rec/6.png</file>
+        <file>rec/7.png</file>
+        <file>rec/8.png</file>
+    </qresource>
+</RCC>
